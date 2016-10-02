@@ -1,0 +1,9 @@
+//
+//  tap.swift
+//  認知症対策アプリ
+//
+//  Created by スズコー on 2016/07/03.
+//  Copyright © 2016年 スズコー. All rights reserved.
+//
+
+import Foundation
